@@ -17,5 +17,11 @@ Download the repository and run the application using the following command.
   $> npm start
 ```
 
+## Form Validations
+1. Email address should be in a valid email format ending with @usc.edu domain.
+2. Identification number should be of format ###-###-####
+3. Project Title must be at least 10 characters.
+4. Project description must be at least 25 characters.
+
 ## Credits
 This project was built as part of the project round for the interview process of part time web developer role at Grad Office, University of Southern California.
